@@ -24,6 +24,12 @@ manifest:
     - name: zmk-module-ble-management
       remote: hyhy-masa
       revision: 851661cd
+    - name: zmk-behavior-runtime-sensor-rotate
+      remote: hyhy-masa
+      revision: efed4f23
+    - name: zmk-module-runtime-combos
+      remote: hyhy-masa
+      revision: 119de78
     - name: zmk-module-battery-history
       remote: hyhy-masa
       revision: 465e53e9
